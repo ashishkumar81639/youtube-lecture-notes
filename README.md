@@ -25,7 +25,8 @@ said "0.1" and "0.001", recovered a dataset row the captions rendered as `257 uh
 ## Install
 
 ```bash
-git clone https://github.com/<you>/youtube-lecture-notes ~/.claude/skills/youtube-lecture-notes
+git clone https://github.com/ashishkumar81639/youtube-lecture-notes \
+  ~/.claude/skills/youtube-lecture-notes
 source ~/.claude/skills/youtube-lecture-notes/scripts/bootstrap.sh
 ```
 
