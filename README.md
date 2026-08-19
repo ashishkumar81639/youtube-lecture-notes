@@ -36,7 +36,7 @@ the stable build gets `HTTP 403` on YouTube's SABR-only DASH URLs.
 
 Then just ask Claude Code:
 
-> process this lecture: https://www.youtube.com/watch?v=...
+> process this lecture: https://youtu.be/Nu-4Q3OoR4E
 
 ## Requirements
 
