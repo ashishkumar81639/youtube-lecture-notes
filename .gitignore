@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# lecture working directories - artifacts, never skill content
+lecture-notes/
+*-lecture-notes/

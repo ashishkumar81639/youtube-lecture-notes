@@ -1,0 +1,41 @@
+{
+ "UCLv7Gzc3VTO6ggFlXY0sOyw": {
+  "camera": "moving",
+  "cuts_min": 21.8,
+  "glossary": "algorithms, predecessor problem, van Emde Boas, fusion trees, word RAM",
+  "median": 123,
+  "name": "Harvard University",
+  "note": "lecture hall, camera pans/zooms; median compositing REJECTED; presenter occludes board",
+  "params": "--cut 215 --settle 51",
+  "still": 0.05,
+  "tier": 2,
+  "updated": "2026-08-19",
+  "videos_seen": 1
+ },
+ "UCNU_lfiiWBdtULKOw6X0Dig": {
+  "camera": "static",
+  "cuts_min": 3.2,
+  "glossary": "",
+  "median": 21,
+  "name": "Krish Naik",
+  "note": "Scrble Ink dark canvas, iPad-style handwriting. Webcam inset BOTTOM-RIGHT (not top-right). Additive WITHIN a page, ink collapses at page wipes -> use ink-drop page-final detection; refine_frames alone gave 163 candidates and 19 pointer holes. Handwriting: frontier vision only, no local OCR. Desktop/Sticky Notes visible ~58:12. Glossary must be ML, not system-design.",
+  "params": "--auto (cut 106 / settle 13 / cluster 48); prefer ink-collapse page-final + transcript pointers over hash triage",
+  "still": 0.046,
+  "tier": 1,
+  "updated": "2026-08-19",
+  "videos_seen": 1
+ },
+ "UCa6HiFCukSxElDy2_sfFhbg": {
+  "camera": "static",
+  "cuts_min": 2.4,
+  "glossary": "system design, distributed systems, order book, matching engine, Kafka, Aeron",
+  "median": 2,
+  "name": "TechPrep",
+  "note": "dark slide deck, animated builds, sponsor read ~01:02-01:44 and outro ~21:53",
+  "params": "--cut 60 --settle 4 --min-plateau 6",
+  "still": 0.74,
+  "tier": 0,
+  "updated": "2026-08-19",
+  "videos_seen": 1
+ }
+}
